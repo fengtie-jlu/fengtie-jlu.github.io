@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi, I am Jiahui Li (李家辉)"
+title: "吉林大学计算机科学与技术学院，李家辉"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-李家辉，吉林大学计算机科学与技术学院软件工程博士在读，博士生导师为孙庚教授。2022年10月，受国家留学基金委资助赴新加坡科技设计大学（Singapore University of Technology and Design）公派留学，合作导师为Lingjie Duan教授。曾获“**宝钢优秀学生奖（研究生）**”、“**中国一汽“红旗”奖学金二等奖**”、“**国家奖学金**”、“**王湘浩奖学金**”、“**吉林省优秀硕士论文**”、“**优秀研究生**”、“**优秀毕业生**”等多项奖励和荣誉称号。
+李家辉，吉林大学计算机科学与技术学院软件工程博士在读，博士生导师为孙庚教授。2022年10月，受国家留学基金委资助赴新加坡科技设计大学（Singapore University of Technology and Design）公派留学，合作导师为Lingjie Duan教授。曾获**宝钢优秀学生奖（研究生）**、**中国一汽“红旗”奖学金二等奖**、**INFOCOM 2021 Student Conference Award**、**国家奖学金**、**王湘浩奖学金**、**吉林省优秀硕士论文**、**优秀研究生**、**优秀毕业生**等多项奖励和荣誉称号。
 
 
 
