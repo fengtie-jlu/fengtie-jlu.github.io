@@ -83,7 +83,7 @@ News
 
 学术兼职
 ======
-1. WiOpt 2023 志愿者
+1. WiOpt 2023 volunteer
 2. IEEE WCNC 2024 TPC member
 3. 多个顶级期刊与学术会议审稿人
    - IEEE Journal on Selected Areas in Communications
