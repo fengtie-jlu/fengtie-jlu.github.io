@@ -1,3 +1,4 @@
+---
 ![00BDD385](https://github.com/lijiahui-jlu/lijiahui-jlu.github.io/assets/149639643/89846308-81d3-4d8e-8f26-7f4f3d8bc4c4)
 permalink: /
 title: "吉林大学计算机科学与技术学院，李家辉"
