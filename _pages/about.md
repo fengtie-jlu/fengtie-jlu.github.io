@@ -71,13 +71,13 @@ News
 获奖情况
 ======
 1. 2023年度宝钢优秀学生奖(研究生) （全校3人，排名第2）
-2. INFOCOM 2021 Student conference award 全球70人
-3. 首届一汽”红旗“奖学金（研究生）二等奖（一等奖1人，全校5人，奖金5万元）
+2. INFOCOM 2021 Student conference award （全球70人）
+3. 首届一汽”红旗“奖学金（研究生）二等奖（一等奖1人，二等奖全校5人，奖金5万元）
 4. 吉林省、吉林大学优秀硕士论文
-5. 国家奖学金（2020年度, 2022年度, 2023年度）
-6. 研究生优秀奖学金一等（2020年度, 2022年度, 2023年度）
-7. 优秀研究生（2020年度, 2022年度, 2023年度）
-8. 优秀毕业生（2021）
+5. 国家奖学金（2020年度、2022年度、2023年度）
+6. 研究生优秀奖学金一等（2020年度、2022年度、2023年度）
+7. 优秀研究生（2020年度、2022年度、2023年度）
+8. 优秀毕业生（2021年）
 
 ---
 
@@ -92,9 +92,7 @@ News
    - IEEE Open Journal of the Communications Society
    - SN Computer Science
    - IEEE ICC 2022
-   - IEEE SMC 2022、2023
+   - IEEE SMC 2022, 2023
 
 
 ---
-
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=500&t=n&d=9r_p46Ijorlwx2n68MARRySVjg1N4XSqArSzELC-UFw&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
