@@ -19,6 +19,8 @@ redirect_from:
 
 News
 ======
+[12/2023] Our paper "Two-Way Aerial Secure Communications via Distributed Collaborative Beamforming under Eavesdropper Collusion" is accepted by IEEE INFOCOM 2024 (第一作者，CCF-A)!<br>
+[12/2023] Our paper "An Online Joint Optimization Approach for QoE Maximization in UAV-Enabled Mobile Edge Computing" is accepted by IEEE INFOCOM 2024 (CCF-A)!<br>
 [10/2023] I will serve as a TPC member of IEEE WCNC 2024!<br>
 [09/2023] Our paper "Multi-objective Optimization Approach for Reducing Hovering and Motion Energy Consumptions in UAV-assisted Collaborative Beamforming" is accepted by IEEE Internet of Things Journal (通信作者，中科院1区)!<br>
 [08/2023] Our paper "Maximizing Data Gathering and Energy Efficiency in UAV-assisted IoT: A Multi-objective Optimization Approach" is accepted by Computer Networks (CCF-B)!<br>
@@ -42,20 +44,21 @@ News
 
 代表性学术成果
 ======
-[1] **<u>Jiahui Li</u>**, Geng Sun\*, Lingjie Duan, Qingqing Wu. Multi-Objective Optimization for UAV Swarm-Assisted IoT with Virtual Antenna Arrays, *IEEE Transactions on Mobile Computing*, 2023. **(IF=6.075) (SCI, CCF A类期刊)**<br>
-[2] **<u>Jiahui Li</u>**, Geng Sun\*, Hui Kang, Aimin Wang, Shuang Liang, Yanheng Liu, Ying Zhang. Multi-Objective Optimization Approaches for Physical Layer Secure Communications Based on Collaborative Beamforming in UAV Networks, *IEEE/ACM Transactions on Networking*, 2023. **(IF=3.796) (SCI, CCF A类期刊)**<br>
-[3] **<u>Jiahui Li</u>**, Hui Kang, Geng Sun\*, Shuang Liang, Yanheng Liu, Ying Zhang, Physical Layer Secure Communications Based on Collaborative Beamforming for UAV Networks: A Multi-objective Optimization Approach, *IEEE International Conference on Computer Communications (IEEE INFOCOM 2021)*. **(CCF A类会议)**<br>
-[4] Geng Sun, **<u>Jiahui Li</u>**, Yanheng Liu, Shuang Liang\*, Hui Kang\*. Time and Energy Minimization Communications Based on Collaborative Beamforming for UAV Networks: A Multi-objective Optimization Method, *IEEE Journal on Selected Areas in Communications*, 39(11): 3555 - 3572, 2021. **(IF=11.42) (SCI, 中科院1区, CCF A类期刊)**<br>
-[5] Geng Sun, **<u>Jiahui Li</u>**, Aimin Wang\*, Qingqing Wu\*, Zemin Sun, Yanheng Liu. Secure and Energy-Efficient UAV Relay Communications Exploiting Collaborative Beamforming, *IEEE Transactions on Communications*, 70(8), 5401-5416, 2022. **(IF=6.166) (SCI, CCF B类期刊)**<br>
-[6] Geng Sun, **<u>Jiahui Li</u>**, Aimin Wang\*, Qingqing Wu, Zemin Sun, Yanheng Liu, Shuang Liang. Collaborative Beamforming for UAV Networks Exploiting Swarm Intelligence, *IEEE Wireless Communications*, 29(4): 10-17, 2022. **(IF=11.39) (SCI, 中科院1区)**<br>
-[7] **<u>Jiahui Li</u>**, Geng Sun\*, Aiming Wang, Xiaoya Zheng, Zhaoyu Chen, Shuang Liang, Yanheng Liu. Multi-objective Sparse Synthesis Optimization of Concentric Circular Antenna Array via Hybrid Evolutionary Computation Approach, *Expert Systems With Applications*, 2023. **(IF=8.665) (SCI, 中科院1区)**<br>
-[8] **<u>Jiahui Li</u>**, Geng Sun\*, Aiming Wang, Ming Lei, Shuang Liang, Hui Kang, Yanheng Liu. A Many-objective Optimization Charging Scheme for Wireless Rechargeable Sensor Networks via Mobile Charging Vehicles, *Computer Networks*, 215, 109196, 2022. **(IF=4.474) (SCI, CCF B类期刊)**<br>
-[9] **<u>Jiahui Li</u>**, Geng Sun\*, Shuang Liang, Yuxin Wang, Aimin Wang. Multi-Objective Uplink Data Transmission Optimization for Edge Computing in UAV-Assistant Mobile Wireless Sensor Networks, *Journal of Systems Architecture*, 132, 102744, 2022. **(IF=5.836) (SCI, CCF B类期刊)**<br>
-[10] Shuang Liang, Minghao Yin, Geng Sun\*, **<u>Jiahui Li*</u>**. Multi-objective Optimization Approach for Reducing Hovering and Motion Energy Consumptions in UAV-assisted Collaborative Beamforming, *IEEE Internet of Things Journal*, 2023. **(IF=10.600) (SCI, 中科院1区)**<br>
-[11] Boxiong Wang, Hui Kang, Geng Sun\*, **<u>Jiahui Li*</u>**, IoT Device Identification via A Bio-Inspired Feature Selection Approach, *IEEE International Conference on Communications (IEEE ICC 2023)*. **(CCF C类会议)**<br>
-[12] Chuang Zhang, Geng Sun\*, **<u>Jiahui Li*</u>**, Xiaoya Zheng, Bi-objective Optimization for UAV Swarm-enabled Relay Communications via Collaborative Beamforming, *26th International Conference on Computer Supported Cooperative Work in Design (CSCWD 2023)*. **(CCF C类会议)**<br>
-[13] Jiawei Huang, Aimin Wang, Geng Sun\*, **<u>Jiahui Li*</u>**, Xiaoya Zheng, Jamming-aided Maritime Physical Layer Encrypted Dual-UAVs Communications Exploiting Collaborative Beamforming, *26th International Conference on Computer Supported Cooperative Work in Design (CSCWD 2023)*. **(CCF C类会议)**<br>
-[14] Zeqian Wei, Hui Kang, Hongjuan Li, Geng Sun\*, **<u>Jiahui Li*</u>**, Xinyu Bao, Bo Zhu, Joint Feature Selection and Classifier Parameter Optimization: A Bio-inspired Approach, *The 16th International Conference on Knowledge Science, Engineering and Management (KSEM 2023)*. **(CCF C类会议)**<br>
+[1] **<u>Jiahui Li</u>**, Geng Sun\*, Qingqing Wu, Shuang Liang*, Pengfei Wang, Dusit Niyato, Two-Way Aerial Secure Communications via Distributed Collaborative Beamforming under Eavesdropper Collusion, *IEEE International Conference on Computer Communications (IEEE INFOCOM 2024)*. **(CCF A类会议)**<br>
+[2] **<u>Jiahui Li</u>**, Geng Sun\*, Lingjie Duan, Qingqing Wu. Multi-Objective Optimization for UAV Swarm-Assisted IoT with Virtual Antenna Arrays, *IEEE Transactions on Mobile Computing*, 2023. **(IF=6.075) (SCI, CCF A类期刊)**<br>
+[3] **<u>Jiahui Li</u>**, Geng Sun\*, Hui Kang, Aimin Wang, Shuang Liang, Yanheng Liu, Ying Zhang. Multi-Objective Optimization Approaches for Physical Layer Secure Communications Based on Collaborative Beamforming in UAV Networks, *IEEE/ACM Transactions on Networking*, 2023. **(IF=3.796) (SCI, CCF A类期刊)**<br>
+[4] **<u>Jiahui Li</u>**, Hui Kang, Geng Sun\*, Shuang Liang, Yanheng Liu, Ying Zhang, Physical Layer Secure Communications Based on Collaborative Beamforming for UAV Networks: A Multi-objective Optimization Approach, *IEEE International Conference on Computer Communications (IEEE INFOCOM 2021)*. **(CCF A类会议)**<br>
+[5] Geng Sun, **<u>Jiahui Li</u>**, Yanheng Liu, Shuang Liang\*, Hui Kang\*. Time and Energy Minimization Communications Based on Collaborative Beamforming for UAV Networks: A Multi-objective Optimization Method, *IEEE Journal on Selected Areas in Communications*, 39(11): 3555 - 3572, 2021. **(IF=11.42) (SCI, 中科院1区, CCF A类期刊)**<br>
+[6] Geng Sun, **<u>Jiahui Li</u>**, Aimin Wang\*, Qingqing Wu\*, Zemin Sun, Yanheng Liu. Secure and Energy-Efficient UAV Relay Communications Exploiting Collaborative Beamforming, *IEEE Transactions on Communications*, 70(8), 5401-5416, 2022. **(IF=6.166) (SCI, CCF B类期刊)**<br>
+[7] Geng Sun, **<u>Jiahui Li</u>**, Aimin Wang\*, Qingqing Wu, Zemin Sun, Yanheng Liu, Shuang Liang. Collaborative Beamforming for UAV Networks Exploiting Swarm Intelligence, *IEEE Wireless Communications*, 29(4): 10-17, 2022. **(IF=11.39) (SCI, 中科院1区)**<br>
+[8] **<u>Jiahui Li</u>**, Geng Sun\*, Aiming Wang, Xiaoya Zheng, Zhaoyu Chen, Shuang Liang, Yanheng Liu. Multi-objective Sparse Synthesis Optimization of Concentric Circular Antenna Array via Hybrid Evolutionary Computation Approach, *Expert Systems With Applications*, 2023. **(IF=8.665) (SCI, 中科院1区)**<br>
+[9] **<u>Jiahui Li</u>**, Geng Sun\*, Aiming Wang, Ming Lei, Shuang Liang, Hui Kang, Yanheng Liu. A Many-objective Optimization Charging Scheme for Wireless Rechargeable Sensor Networks via Mobile Charging Vehicles, *Computer Networks*, 215, 109196, 2022. **(IF=4.474) (SCI, CCF B类期刊)**<br>
+[10] **<u>Jiahui Li</u>**, Geng Sun\*, Shuang Liang, Yuxin Wang, Aimin Wang. Multi-Objective Uplink Data Transmission Optimization for Edge Computing in UAV-Assistant Mobile Wireless Sensor Networks, *Journal of Systems Architecture*, 132, 102744, 2022. **(IF=5.836) (SCI, CCF B类期刊)**<br>
+[11] Shuang Liang, Minghao Yin, Geng Sun\*, **<u>Jiahui Li*</u>**. Multi-objective Optimization Approach for Reducing Hovering and Motion Energy Consumptions in UAV-assisted Collaborative Beamforming, *IEEE Internet of Things Journal*, 2023. **(IF=10.600) (SCI, 中科院1区)**<br>
+[12] Boxiong Wang, Hui Kang, Geng Sun\*, **<u>Jiahui Li*</u>**, IoT Device Identification via A Bio-Inspired Feature Selection Approach, *IEEE International Conference on Communications (IEEE ICC 2023)*. **(CCF C类会议)**<br>
+[13] Chuang Zhang, Geng Sun\*, **<u>Jiahui Li*</u>**, Xiaoya Zheng, Bi-objective Optimization for UAV Swarm-enabled Relay Communications via Collaborative Beamforming, *26th International Conference on Computer Supported Cooperative Work in Design (CSCWD 2023)*. **(CCF C类会议)**<br>
+[14] Jiawei Huang, Aimin Wang, Geng Sun\*, **<u>Jiahui Li*</u>**, Xiaoya Zheng, Jamming-aided Maritime Physical Layer Encrypted Dual-UAVs Communications Exploiting Collaborative Beamforming, *26th International Conference on Computer Supported Cooperative Work in Design (CSCWD 2023)*. **(CCF C类会议)**<br>
+[15] Zeqian Wei, Hui Kang, Hongjuan Li, Geng Sun\*, **<u>Jiahui Li*</u>**, Xinyu Bao, Bo Zhu, Joint Feature Selection and Classifier Parameter Optimization: A Bio-inspired Approach, *The 16th International Conference on Knowledge Science, Engineering and Management (KSEM 2023)*. **(CCF C类会议)**<br>
 
 ---
 
@@ -96,7 +99,7 @@ News
    - SN Computer Science
    - IEEE ICC 2022
    - IEEE SMC 2022, 2023
-4. 吉林大学计算机科学与技术学院“研学论道”主讲人
+4. 吉林大学计算机科学与技术学院“研学论道”主讲人 (2021年度、2022年度、2023年度)
 
 
 ---
