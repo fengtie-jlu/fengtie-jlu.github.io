@@ -100,6 +100,7 @@ News
    - IEEE Transactions on Mobile Computing
    - IEEE Open Journal of the Communications Society
    - SN Computer Science
+   - Electronics Letters
    - IEEE ICC 2022
    - IEEE SMC 2022, 2023
 4. 吉林大学计算机科学与技术学院“研学论道”主讲人 (2021年度、2022年度、2023年度)
