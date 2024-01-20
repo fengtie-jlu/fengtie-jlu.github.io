@@ -19,6 +19,8 @@ redirect_from:
 
 News
 ======
+[01/2024] Our paper "Enabling Urban MmWave Communications with UAV-Carried IRS via Deep Reinforcement Learning" is accepted by IEEE ICC 2024 (通信作者，CCF-C)!<br>
+[01/2024] Our paper "Physical Layer Encrypted Maritime Communications Utilizing UAV-enabled Virtual Antenna Array" is accepted by IEEE ICC 2024 (通信作者，CCF-C)!<br>
 [12/2023] Our paper "Aerial Data Transmission under Disasters: Multi-hop Network Exploiting UAV-enabled Virtual Antenna Arrays" is accepted by IEEE WCNC 2024 (通信作者，CCF-C)!<br>
 [12/2023] Our paper "Two-Way Aerial Secure Communications via Distributed Collaborative Beamforming under Eavesdropper Collusion" is accepted by IEEE INFOCOM 2024 (第一作者，CCF-A)!<br>
 [12/2023] Our paper "An Online Joint Optimization Approach for QoE Maximization in UAV-Enabled Mobile Edge Computing" is accepted by IEEE INFOCOM 2024 (CCF-A)!<br>
@@ -61,7 +63,8 @@ News
 [14] Jiawei Huang, Aimin Wang, Geng Sun\*, **<u>Jiahui Li*</u>**, Xiaoya Zheng, Jamming-aided Maritime Physical Layer Encrypted Dual-UAVs Communications Exploiting Collaborative Beamforming, *26th International Conference on Computer Supported Cooperative Work in Design (CSCWD 2023)*. **(CCF C类会议)**<br>
 [15] Zeqian Wei, Hui Kang, Hongjuan Li, Geng Sun\*, **<u>Jiahui Li*</u>**, Xinyu Bao, Bo Zhu, Joint Feature Selection and Classifier Parameter Optimization: A Bio-inspired Approach, *The 16th International Conference on Knowledge Science, Engineering and Management (KSEM 2023)*. **(CCF C类会议)**<br>
 [16] Bingtian Li, Hui Kang, Geng Sun\*, **<u>Jiahui Li*</u>**, Xinyu Bao, Bo Zhu, Aerial Data Transmission under Disasters: Multi-hop Network Exploiting UAV-enabled Virtual Antenna Arrays, *IEEE Wireless Communications and Networking Conference (IEEE WCNC 2024)*. (CCF C类会议)
-
+[17] Geng Sun, Bei Liu, **<u>Jiahui Li*</u>**, Shuang Liang, Hongyang Pan, Xiaoya Zheng, Enabling Urban MmWave Communications with UAV-Carried IRS via Deep Reinforcement Learning, *IEEE International Conference on Communications (IEEE ICC 2024)*. (CCF C类会议)
+[18] Jiawei Huang, Aimin Wang, Geng Sun\*, **<u>Jiahui Li*</u>**, Xiaoya Zheng, Physical Layer Encrypted Maritime Communications Utilizing UAV-enabled Virtual Antenna Array, *IEEE International Conference on Communications (IEEE ICC 2024)*. (CCF C类会议)
 
 ---
 
