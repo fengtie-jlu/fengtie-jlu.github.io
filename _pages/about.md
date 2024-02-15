@@ -19,6 +19,7 @@ redirect_from:
 
 News
 ======
+[02/2024] I will serve as a PC member of ICA3PP 2024!<br>
 [01/2024] Our paper "Enabling Urban MmWave Communications with UAV-Carried IRS via Deep Reinforcement Learning" is accepted by IEEE ICC 2024 (通信作者，CCF-C)!<br>
 [01/2024] Our paper "Physical Layer Encrypted Maritime Communications Utilizing UAV-enabled Virtual Antenna Array" is accepted by IEEE ICC 2024 (通信作者，CCF-C)!<br>
 [12/2023] Our paper "Aerial Data Transmission under Disasters: Multi-hop Network Exploiting UAV-enabled Virtual Antenna Arrays" is accepted by IEEE WCNC 2024 (通信作者，CCF-C)!<br>
