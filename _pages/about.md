@@ -101,8 +101,10 @@ News
    - IEEE Journal on Selected Areas in Communications
    - IEEE Transactions on Intelligent Transportation Systems
    - IEEE Transactions on Mobile Computing
+   - IEEE Transactions on Knowledge and Data Engineering
    - IEEE Open Journal of the Communications Society
    - SN Computer Science
+   - Big Data Research
    - Electronics Letters
    - IEEE ICC 2022
    - IEEE SMC 2022, 2023
