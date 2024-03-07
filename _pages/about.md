@@ -19,7 +19,7 @@ redirect_from:
 
 News
 ======
-[03/2024] Our paper "Efficient Traffic-based IoT Device Identification Using a Feature Selection Approach with Lévy Flight-based Sine Chaotic Sub-swarm Binary Honey Badger Algorithm" is accepted by Applied Soft Computing (中科院1区)!<br>
+[03/2024] Our paper "Efficient Traffic-based IoT Device Identification Using a Feature Selection Approach with Lévy Flight-based Sine Chaotic Sub-swarm Binary Honey Badger Algorithm" is accepted by Applied Soft Computing (通信作者，中科院1区)!<br>
 [02/2024] I will serve as a PC member of ICA3PP 2024!<br>
 [01/2024] Our paper "Enabling Urban MmWave Communications with UAV-Carried IRS via Deep Reinforcement Learning" is accepted by IEEE ICC 2024 (通信作者，CCF-C)!<br>
 [01/2024] Our paper "Physical Layer Encrypted Maritime Communications Utilizing UAV-enabled Virtual Antenna Array" is accepted by IEEE ICC 2024 (通信作者，CCF-C)!<br>
