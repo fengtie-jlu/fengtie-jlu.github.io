@@ -11,7 +11,7 @@ redirect_from:
 
 李家辉，吉林大学计算机科学与技术学院软件工程博士在读，博士生导师为孙庚教授。2022年10月，受国家留学基金委资助赴新加坡科技设计大学（Singapore University of Technology and Design）公派留学，合作导师为Lingjie Duan教授。此前，于吉林大学计算机科学与技术学院获得工学硕士学位，硕士生导师为康辉教授。曾获**宝钢优秀学生奖（研究生）**、**中国一汽“红旗”奖学金**、**INFOCOM 2021 Student Conference Award**、**国家奖学金**、**王湘浩奖学金**、**吉林省优秀硕士论文**、**优秀研究生**、**优秀毕业生**等多项奖励和荣誉称号。
 
-近5年，以第一作者、导师外一作和通信作者身份共计发表高水平学术论文近20篇，其中**中国计算机学会推荐A类、B类期刊和会议及中科院1区10余篇**，包括**IEEE/ACM ToN、IEEE JSAC、IEEE TMC、IEEE TCOM、IEEE IoT-J、IEEE WCM、IEEE INFOCOM、IEEE WCNC**和**IEEE ICC**等高水平期刊和学术会议；获得授权发明专利4项；担任多个顶级期刊审稿人与重要学术会议的TPC member。
+近5年，以第一作者、导师外一作和通信作者身份共计发表高水平学术论文20余篇，其中**中国计算机学会推荐A类、B类期刊和会议及中科院1区10余篇**，包括**IEEE/ACM ToN、IEEE JSAC、IEEE TMC、IEEE TCOM、IEEE IoT-J、IEEE WCM、IEEE INFOCOM、IEEE WCNC**和**IEEE ICC**等高水平期刊和学术会议；获得授权发明专利4项；担任多个顶级期刊审稿人与重要学术会议的TPC member。
 
 主要研究方向为：空天地一体化网络、异构协作通信、无线能量传输、演化学习、深度强化学习与多目标优化。如果您愿意提供指导与合作，烦请您随时通过邮件（lijiahui0803@foxmail.com）或微信（ljh1009501336）与我联系，期待您着的见解与帮助。
 
@@ -19,7 +19,7 @@ redirect_from:
 
 News
 ======
-[03/2024] Our paper "Efficient Traffic-based IoT Device Identification Using a Feature Selection Approach with Lévy Flight-based Sine Chaotic Sub-swarm Binary Honey Badger Algorithm" is accepted by Applied Soft Computing (中科院1区)!
+[03/2024] Our paper "Efficient Traffic-based IoT Device Identification Using a Feature Selection Approach with Lévy Flight-based Sine Chaotic Sub-swarm Binary Honey Badger Algorithm" is accepted by Applied Soft Computing (中科院1区)!<br>
 [02/2024] I will serve as a PC member of ICA3PP 2024!<br>
 [01/2024] Our paper "Enabling Urban MmWave Communications with UAV-Carried IRS via Deep Reinforcement Learning" is accepted by IEEE ICC 2024 (通信作者，CCF-C)!<br>
 [01/2024] Our paper "Physical Layer Encrypted Maritime Communications Utilizing UAV-enabled Virtual Antenna Array" is accepted by IEEE ICC 2024 (通信作者，CCF-C)!<br>
