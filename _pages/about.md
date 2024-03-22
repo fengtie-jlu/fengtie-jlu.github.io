@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-李家辉，吉林大学计算机科学与技术学院软件工程博士在读，博士生导师为孙庚教授。2022年10月，受国家留学基金委资助赴新加坡科技设计大学（Singapore University of Technology and Design）公派留学，合作导师为Lingjie Duan教授。此前，于吉林大学计算机科学与技术学院获得工学硕士学位，硕士生导师为康辉教授。曾获**宝钢优秀学生奖（研究生）**、**中国一汽“红旗”奖学金**、**INFOCOM 2021 Student Conference Award**、**国家奖学金**、**王湘浩奖学金**、**吉林省优秀硕士论文**、**优秀研究生**、**优秀毕业生**等多项奖励和荣誉称号。
+李家辉，吉林大学计算机科学与技术学院软件工程博士在读，博士生导师为孙庚教授。2022年10月，受国家留学基金委资助赴新加坡科技设计大学（Singapore University of Technology and Design）公派留学，合作导师为Lingjie Duan教授。此前，于吉林大学计算机科学与技术学院获得工学硕士学位，硕士生导师为康辉教授。曾获**宝钢优秀学生奖（研究生）**、**中国一汽“红旗”奖学金**、**INFOCOM 2021 Student Conference Award**、**国家奖学金**、**王湘浩奖学金**、**吉林省普通高校省级优秀大学生**、**吉林省优秀硕士论文**、**优秀研究生**、**优秀毕业生**等多项奖励和荣誉称号。
 
 近5年，以第一作者、导师外一作和通信作者身份共计发表高水平学术论文20余篇，其中**中国计算机学会推荐A类、B类期刊和会议及中科院1区10余篇**，包括**IEEE/ACM ToN、IEEE JSAC、IEEE TMC、IEEE TCOM、IEEE IoT-J、IEEE WCM、IEEE INFOCOM、IEEE WCNC**和**IEEE ICC**等高水平期刊和学术会议；获得授权发明专利4项；担任多个顶级期刊审稿人与重要学术会议的TPC member。
 
@@ -19,6 +19,7 @@ redirect_from:
 
 News
 ======
+[03/2024] I am honored to receive the Provincial Outstanding College Student of General Universities in Jilin Province!<br>
 [03/2024] Our paper "Efficient Traffic-based IoT Device Identification Using a Feature Selection Approach with Lévy Flight-based Sine Chaotic Sub-swarm Binary Honey Badger Algorithm" is accepted by Applied Soft Computing (通信作者，中科院1区)!<br>
 [02/2024] I will serve as a PC member of ICA3PP 2024!<br>
 [01/2024] Our paper "Enabling Urban MmWave Communications with UAV-Carried IRS via Deep Reinforcement Learning" is accepted by IEEE ICC 2024 (通信作者，CCF-C)!<br>
@@ -83,17 +84,18 @@ News
 
 获奖情况
 ======
-1. 2023年度宝钢优秀学生奖(研究生) **(全校3人，排名第2)**
-2. INFOCOM 2021 Student conference award **(全球70人)**
-3. 首届一汽”红旗“奖学金(研究生)二等奖 **(全校一等奖1人、二等奖5人，奖金5万元)**
-4. 王湘浩奖学金 **(全院1人)**
-5. 吉林省、吉林大学优秀硕士论文
-6. 国家奖学金 (2020年度、2022年度、2023年度)
-7. 吉林大学学术业绩奖学金 (2021年度、2022年度)
-8. 研究生优秀奖学金一等 (2020年度、2022年度、2023年度)
-9. 优秀研究生 (2020年度、2022年度、2023年度)
-10. 优秀毕业生 (2021年)
-11. 吉林大学第十五届博士生国际学术论坛交通分论坛墙报优秀奖
+1. 2023年吉林省普通高校省级优秀大学生
+2. 2023年度宝钢优秀学生奖(研究生) **(全校3人，排名第2)**
+3. INFOCOM 2021 Student conference award **(全球70人)**
+4. 首届一汽”红旗“奖学金(研究生)二等奖 **(全校一等奖1人、二等奖5人，奖金5万元)**
+5. 王湘浩奖学金 **(全院1人)**
+6. 吉林省、吉林大学优秀硕士论文
+7. 国家奖学金 (2020年度、2022年度、2023年度)
+8. 吉林大学学术业绩奖学金 (2021年度、2022年度)
+9. 研究生优秀奖学金一等 (2020年度、2022年度、2023年度)
+10. 优秀研究生 (2020年度、2022年度、2023年度)
+11. 优秀毕业生 (2021年)
+12. 吉林大学第十五届博士生国际学术论坛交通分论坛墙报优秀奖
 
 ---
 
