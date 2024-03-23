@@ -34,8 +34,6 @@ News
 [06/2023] Our paper "Multi-objective Sparse Synthesis Optimization of Concentric Circular Antenna Array via Hybrid Evolutionary Computation Approach" is accepted by Expert Systems With Applications (第一作者，中科院1区)!<br>
 [05/2023] Our paper "Collaborative WSN-UAV Data Collection in Smart Agriculture: A Bi-objective Optimization Scheme" is accepted by ACM Transactions on Sensor Networks (CCF-B)!<br>
 [04/2023] Our paper "UAV-enabled Secure Communications via Collaborative Beamforming with Imperfect Eavesdropper Information" is accepted by IEEE Transactions on Mobile Computing (CCF-A)!<br>
-[01/2023] Our paper "Multi-Objective Optimization Approaches for Physical Layer Secure Communications Based on Collaborative Beamforming in UAV Networks" is accepted by IEEE/ACM Transactions on Networking (第一作者，CCF-A)!<br>
-
 ---
 
 教育经历
