@@ -102,7 +102,8 @@ News
 1. WiOpt 2023 volunteer
 2. IEEE WCNC 2024 TPC member
 3. ICA3PP 2024 PC member
-4. 多个顶级期刊与学术会议审稿人
+4. PIMRC 24 PC member
+5. 多个顶级期刊与学术会议审稿人
    - IEEE Journal on Selected Areas in Communications
    - IEEE Transactions on Intelligent Transportation Systems
    - IEEE Transactions on Mobile Computing
@@ -112,9 +113,10 @@ News
    - SN Computer Science
    - Big Data Research
    - Electronics Letters
+   - Computers, Materials & Continua
    - IEEE ICC 2022
    - IEEE SMC 2022, 2023
-5. 吉林大学计算机科学与技术学院“研学论道”主讲人 (2021年度、2022年度、2023年度)
+6. 吉林大学计算机科学与技术学院“研学论道”主讲人 (2021年度、2022年度、2023年度)
 
 
 ---
