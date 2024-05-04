@@ -19,6 +19,7 @@ redirect_from:
 
 News
 ======
+[03/2024] Our paper "Reliable and Energy-efficient Communications via Collaborative Beamforming for UAV Networks" is accepted by IEEE Transactions on Wireless Communications (通信作者，中科院1区)!<br>
 [03/2024] I am honored to receive the Provincial Outstanding College Student of General Universities in Jilin Province!<br>
 [03/2024] Our paper "Efficient Traffic-based IoT Device Identification Using a Feature Selection Approach with Lévy Flight-based Sine Chaotic Sub-swarm Binary Honey Badger Algorithm" is accepted by Applied Soft Computing (通信作者，中科院1区)!<br>
 [02/2024] I will serve as a PC member of ICA3PP 2024!<br>
@@ -58,6 +59,7 @@ News
 [8] **<u>Jiahui Li</u>**, Geng Sun\*, Aiming Wang, Xiaoya Zheng, Zhaoyu Chen, Shuang Liang, Yanheng Liu. Multi-objective Sparse Synthesis Optimization of Concentric Circular Antenna Array via Hybrid Evolutionary Computation Approach, *Expert Systems With Applications*, 2023. **(IF=8.665) (SCI, 中科院1区)**<br>
 [9] **<u>Jiahui Li</u>**, Geng Sun\*, Aiming Wang, Ming Lei, Shuang Liang, Hui Kang, Yanheng Liu. A Many-objective Optimization Charging Scheme for Wireless Rechargeable Sensor Networks via Mobile Charging Vehicles, *Computer Networks*, 215, 109196, 2022. **(IF=4.474) (SCI, CCF B类期刊)**<br>
 [10] **<u>Jiahui Li</u>**, Geng Sun\*, Shuang Liang, Yuxin Wang, Aimin Wang. Multi-Objective Uplink Data Transmission Optimization for Edge Computing in UAV-Assistant Mobile Wireless Sensor Networks, *Journal of Systems Architecture*, 132, 102744, 2022. **(IF=5.836) (SCI, CCF B类期刊)**<br>
+[10] Xiaoya Zheng, Geng Sun\*, **<u>Jiahui Li*</u>**, Shuang Liang, Qingqing Wu, Minghao Yin, Dusit Niyato, Victor C. M. Leung. Reliable and Energy-efficient Communications via Collaborative Beamforming for UAV Networks, *IEEE Transactions on Wireless Communications*, 2024. **(IF=10.400) (SCI, 中科院1区)**<br>
 [11] Shuang Liang, Minghao Yin, Geng Sun\*, **<u>Jiahui Li*</u>**. Multi-objective Optimization Approach for Reducing Hovering and Motion Energy Consumptions in UAV-assisted Collaborative Beamforming, *IEEE Internet of Things Journal*, 2023. **(IF=10.600) (SCI, 中科院1区)**<br>
 [12] Boxiong Wang, Hui Kang,  Geng Sun\*, **<u>Jiahui Li*</u>**, Efficient Traffic-based IoT Device Identification Using a Feature Selection Approach with Lévy Flight-based Sine Chaotic Sub-swarm Binary Honey Badger Algorithm, *Applied Soft Computing*, 2024. (IF=8.700) **(SCI, 中科院1区)**<br>
 [13] Boxiong Wang, Hui Kang, Geng Sun\*, **<u>Jiahui Li*</u>**, IoT Device Identification via A Bio-Inspired Feature Selection Approach, *IEEE International Conference on Communications (IEEE ICC 2023)*. **(CCF C类会议)**<br>
