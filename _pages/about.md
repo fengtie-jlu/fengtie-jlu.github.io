@@ -22,6 +22,7 @@ Activities:
 [07/2024] We will organize a Special Issue "[Empowering IoT With AI: AIoT for Smart and Autonomous Systems](https://www.mdpi.com/journal/electronics/special_issues/25EZI4E691)" in Electronics, welcome to submit papers!<br>
 [02/2024] I will serve as a PC member of ICA3PP 2024!<br>
 [10/2023] I will serve as a TPC member of IEEE WCNC 2024!<br>
+
 ---
 
 Recent Accepted Papers:
@@ -38,6 +39,7 @@ Recent Accepted Papers:
 [09/2023] Our paper "Multi-objective Optimization Approach for Reducing Hovering and Motion Energy Consumptions in UAV-assisted Collaborative Beamforming" is accepted by IEEE Internet of Things Journal (通信作者，中科院1区)!<br>
 [06/2023] Our paper "Multi-Objective Optimization for UAV Swarm-Assisted IoT with Virtual Antenna Arrays" is accepted by IEEE Transactions on Mobile Computing (第一作者，CCF-A)!<br>
 [06/2023] Our paper "Multi-objective Sparse Synthesis Optimization of Concentric Circular Antenna Array via Hybrid Evolutionary Computation Approach" is accepted by Expert Systems With Applications (第一作者，中科院1区)!<br>
+
 ---
 
 教育经历
