@@ -22,7 +22,7 @@ News
 [07/2024] We will organize a Special Issue "[Empowering IoT With AI: AIoT for Smart and Autonomous Systems](https://www.mdpi.com/journal/electronics/special_issues/25EZI4E691)" in Electronics, welcome to submit papers!<br>
 [02/2024] I will serve as a PC member of ICA3PP 2024!<br>
 [10/2023] I will serve as a TPC member of IEEE WCNC 2024!<br>
-======
+---
 [07/2024] Our paper "IRS-enabled Wireless Power Transfer and Data Collection in UAV-assisted IoT" is accepted by IEEE GLOBECOM 2024 (通信作者, CCF-C)!<br>
 [07/2024] Our paper "Task Execution Latency Minimization for Energy-sensitive IoTs in Wireless Powered Mobile Edge Computing: A DRL-based Method" is accepted by Computer Networks (通信作者，CCF-B)!<br>
 [06/2024] Our paper "UAV-enabled Collaborative Beamforming via Multi-Agent Deep Reinforcement Learning" is accepted by IEEE Transactions on Mobile Computing (通信作者，CCF-A)!<br>
