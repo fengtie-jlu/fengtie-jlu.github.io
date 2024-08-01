@@ -19,23 +19,22 @@ redirect_from:
 
 News
 ======
+[07/2024] We will organize a Special Issue "[Empowering IoT With AI: AIoT for Smart and Autonomous Systems](https://www.mdpi.com/journal/electronics/special_issues/25EZI4E691)" in Electronics, welcome to submit papers!<br>
+[02/2024] I will serve as a PC member of ICA3PP 2024!<br>
+[10/2023] I will serve as a TPC member of IEEE WCNC 2024!<br>
+======
+[07/2024] Our paper "IRS-enabled Wireless Power Transfer and Data Collection in UAV-assisted IoT" is accepted by IEEE GLOBECOM 2024 (通信作者, CCF-C)!<br>
+[07/2024] Our paper "Task Execution Latency Minimization for Energy-sensitive IoTs in Wireless Powered Mobile Edge Computing: A DRL-based Method" is accepted by Computer Networks (通信作者，CCF-B)!<br>
 [06/2024] Our paper "UAV-enabled Collaborative Beamforming via Multi-Agent Deep Reinforcement Learning" is accepted by IEEE Transactions on Mobile Computing (通信作者，CCF-A)!<br>
 [05/2024] Our paper "Reliable and Energy-efficient Communications via Collaborative Beamforming for UAV Networks" is accepted by IEEE Transactions on Wireless Communications (通信作者，中科院1区)!<br>
-[03/2024] I am honored to receive the Provincial Outstanding College Student of General Universities in Jilin Province!<br>
 [03/2024] Our paper "Efficient Traffic-based IoT Device Identification Using a Feature Selection Approach with Lévy Flight-based Sine Chaotic Sub-swarm Binary Honey Badger Algorithm" is accepted by Applied Soft Computing (通信作者，中科院1区)!<br>
-[02/2024] I will serve as a PC member of ICA3PP 2024!<br>
 [01/2024] Our paper "Enabling Urban MmWave Communications with UAV-Carried IRS via Deep Reinforcement Learning" is accepted by IEEE ICC 2024 (通信作者，CCF-C)!<br>
 [01/2024] Our paper "Physical Layer Encrypted Maritime Communications Utilizing UAV-enabled Virtual Antenna Array" is accepted by IEEE ICC 2024 (通信作者，CCF-C)!<br>
 [12/2023] Our paper "Aerial Data Transmission under Disasters: Multi-hop Network Exploiting UAV-enabled Virtual Antenna Arrays" is accepted by IEEE WCNC 2024 (通信作者，CCF-C)!<br>
 [12/2023] Our paper "Two-Way Aerial Secure Communications via Distributed Collaborative Beamforming under Eavesdropper Collusion" is accepted by IEEE INFOCOM 2024 (第一作者，CCF-A)!<br>
-[12/2023] Our paper "An Online Joint Optimization Approach for QoE Maximization in UAV-Enabled Mobile Edge Computing" is accepted by IEEE INFOCOM 2024 (CCF-A)!<br>
-[10/2023] I will serve as a TPC member of IEEE WCNC 2024!<br>
 [09/2023] Our paper "Multi-objective Optimization Approach for Reducing Hovering and Motion Energy Consumptions in UAV-assisted Collaborative Beamforming" is accepted by IEEE Internet of Things Journal (通信作者，中科院1区)!<br>
-[08/2023] Our paper "Maximizing Data Gathering and Energy Efficiency in UAV-assisted IoT: A Multi-objective Optimization Approach" is accepted by Computer Networks (CCF-B)!<br>
 [06/2023] Our paper "Multi-Objective Optimization for UAV Swarm-Assisted IoT with Virtual Antenna Arrays" is accepted by IEEE Transactions on Mobile Computing (第一作者，CCF-A)!<br>
 [06/2023] Our paper "Multi-objective Sparse Synthesis Optimization of Concentric Circular Antenna Array via Hybrid Evolutionary Computation Approach" is accepted by Expert Systems With Applications (第一作者，中科院1区)!<br>
-[05/2023] Our paper "Collaborative WSN-UAV Data Collection in Smart Agriculture: A Bi-objective Optimization Scheme" is accepted by ACM Transactions on Sensor Networks (CCF-B)!<br>
-[04/2023] Our paper "UAV-enabled Secure Communications via Collaborative Beamforming with Imperfect Eavesdropper Information" is accepted by IEEE Transactions on Mobile Computing (CCF-A)!<br>
 ---
 
 教育经历
