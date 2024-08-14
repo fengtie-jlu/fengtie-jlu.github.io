@@ -40,7 +40,6 @@ Recent Accepted Papers:
 [12/2023] Our paper "Two-Way Aerial Secure Communications via Distributed Collaborative Beamforming under Eavesdropper Collusion" is accepted by IEEE INFOCOM 2024 (第一作者，CCF-A)!<br>
 [09/2023] Our paper "Multi-objective Optimization Approach for Reducing Hovering and Motion Energy Consumptions in UAV-assisted Collaborative Beamforming" is accepted by IEEE Internet of Things Journal (通信作者，中科院1区)!<br>
 [06/2023] Our paper "Multi-Objective Optimization for UAV Swarm-Assisted IoT with Virtual Antenna Arrays" is accepted by IEEE Transactions on Mobile Computing (第一作者，CCF-A)!<br>
-[06/2023] Our paper "Multi-objective Sparse Synthesis Optimization of Concentric Circular Antenna Array via Hybrid Evolutionary Computation Approach" is accepted by Expert Systems With Applications (第一作者，中科院1区)!<br>
 
 ---
 
