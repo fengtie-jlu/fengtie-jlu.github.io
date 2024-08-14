@@ -27,7 +27,7 @@ Activities:
 
 Recent Accepted Papers:
 ======
-[08/2024] Our paper "Single-objective and Multi-objective Mixed-variable Grey Wolf Optimizer for Joint Feature Selection and Classifier Parameter Tuning" is accepted by Applied Soft Computing (通信作者，中科院1区)!!
+[08/2024] Our paper "Single-objective and Multi-objective Mixed-variable Grey Wolf Optimizer for Joint Feature Selection and Classifier Parameter Tuning" is accepted by Applied Soft Computing (通信作者，中科院1区)!
 [08/2024] Our paper "Collaborative Ground-Space Communications via Evolutionary Multi-objective Deep Reinforcement Learning" is accepted by IEEE Journal on Selected Areas in Communications (第一作者，CCF-A)!
 [07/2024] Our paper "IRS-enabled Wireless Power Transfer and Data Collection in UAV-assisted IoT" is accepted by IEEE GLOBECOM 2024 (通信作者, CCF-C)!<br>
 [07/2024] Our paper "Task Execution Latency Minimization for Energy-sensitive IoTs in Wireless Powered Mobile Edge Computing: A DRL-based Method" is accepted by Computer Networks (通信作者，CCF-B)!<br>
