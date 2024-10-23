@@ -11,7 +11,7 @@ title                    : ""
 title_separator          : "-"
 name                     : &name "Tie Feng"
 description              : &description "personal description"
-url                      : https://lijiahui-jlu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://fengtie-jlu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fengtie-jlu/fengtie-jlu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jiahui Li"
+  name             : "Tie Feng"
   avatar           : "profile.png"
   bio              : # "Your biography for the left-hand sidebar"
   location         : "China"
