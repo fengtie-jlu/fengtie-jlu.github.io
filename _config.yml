@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : ""
 title_separator          : "-"
-name                     : &name "Jiahui Li"
+name                     : &name "Tie Feng"
 description              : &description "personal description"
 url                      : https://lijiahui-jlu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "lijiahui-jlu/lijiahui-jlu.github.io"
+repository               : "fengtie-jlu/fengtie-jlu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=6Jyyr0AAAAAJ&hl=zh-CN"
-  email            : "lijiahui0803@foxmail.com"
+  email            : "fengtie@jlu.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Jiahui-Li-40"
   uri              :
   bitbucket        :
